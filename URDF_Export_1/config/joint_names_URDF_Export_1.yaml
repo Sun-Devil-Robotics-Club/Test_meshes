@@ -1,0 +1,12 @@
+controller_joint_names:
+  [
+    "",
+    "Right_rotor_joint",
+    "joint_right_back",
+    "joint_right_mid",
+    "joint_right_front",
+    "left_rotor_joint",
+    "joint_left_back",
+    "joint_left_mid",
+    "joint_left_front",
+  ]
